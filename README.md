@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Og</h1>
+<h1 align="center">Hi, I'm Michael Og</h1>
 <h3 align="center">Currently studying to be a software engineer.</h3>
 
 - 🔭 I’m currently working on [Eudaimonia](https://github.com/Michaelogclarke/Eudamonia)
